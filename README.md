@@ -1,6 +1,6 @@
-Goal of the application
+Goal of the application.
 To automate everyday work of an administrator at a service station.
-Application functionality
+Application functionality.
 The only user of the application should be the administrator of the service station.
 That user serves two client types: new clients and returning clients. Clients specify
 their name and surname to the administrator to register an order. The
